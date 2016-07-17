@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Freelancer - Start Bootstrap Theme</title>
+    <title>Ajit Ambekar</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -41,7 +41,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="#page-top">Start Bootstrap</a>
+                <a class="navbar-brand" href="#page-top">Home</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -171,13 +171,15 @@
 			<br><p>Secured 95.99 percentile in GATE 2009</p>
                 </div>
                 <div class="col-lg-4">
-			<p>If you are and Computer Science student (preferably Engineering) and looking for tutions then you can contact me</p>
+			<p>If you are and Computer Science student (preferably Engineering) and looking for private tutions then you can contact me</p>
 			<br><p>If you are just looking for notes to clear you exam then you are at the wrong place. I do not provide notes.</p>
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
+			<!--
                     <a href="#" class="btn btn-lg btn-outline">
-			    <!--<i class="fa fa-download"></i> Download Theme -->
+			    <i class="fa fa-download"></i> Download Theme 
                     </a>
+			-->
                 </div>
             </div>
         </div>
@@ -279,7 +281,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        Copyright &copy; Your Website 2016
+                        Copyright &copy; ajitambekar.in 2016
                     </div>
                 </div>
             </div>
@@ -394,7 +396,11 @@
                             <h2>Course Offered</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/circus.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <p>
+			    Data structures is another important and favourate topic of interviewers. I teach DS with C as per the standard Engineering syllabus.
+			    It is very important to understand the basic of Data structures like List,Stack,Linked List,Binary Trees etc. Interviews sometimes go beyond
+			    basic data structures in our cirriculum.
+			    </p>
                             <ul class="list-inline item-details">
 				 <!--
                                 <li>Client:
@@ -433,8 +439,20 @@
                             <h2>Course Offered</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/game.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <p>
+			    When it comes it Linux, the only reason to learn it as a student is because we have some or other practicals to be performed on it. No one
+			    helps us understand why do we learn Linux and what are the advantages of it over other OS's.
+			    <br><br>
+			    There are four type of Linux users viz. <b>System Admin</b>,<b> Network Admin</b>,<b> Developers</b>,<b> Users</b>.
+			    <br>It is very rare that we find the forth category. Infact it is usually a subset of third category.
+			    <br>To become a System Admin/Network Admin it becomes mandatory to be a <b>Red Hat certified</b>.
+			    <br><br>I do not provide Red Hat certification neither I teach as per Red Hat syllabus.
+			    I try to cater the third and forth category. 
+			    <br><br>These days it becomes essential to know Linux as it gives you an edge over other candidates in the interview. Infact,
+			    lot of requirement these days require even fresh candidates to know Linux. Let me know if you are interested, I'll share the syllabus if so.
+			    </p>
                             <ul class="list-inline item-details">
+				<!--
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
                                     </strong>
@@ -447,6 +465,7 @@
                                     <strong><a href="http://startbootstrap.com">Web Development</a>
                                     </strong>
                                 </li>
+				-->
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
@@ -470,8 +489,12 @@
                             <h2>Course Offered</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/safe.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <p>
+			    There are few other subject pertaining to Computer/IT which I would love teaching so if you want me to know if I 
+			    would cater you requirement the contact me. There is a strict <b>NO</b> to theory subjects.
+			    </p>
                             <ul class="list-inline item-details">
+				<!--
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
                                     </strong>
@@ -484,6 +507,7 @@
                                     <strong><a href="http://startbootstrap.com">Web Development</a>
                                     </strong>
                                 </li>
+				-->
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
@@ -557,14 +581,14 @@ Obviously all these cannot be taught in a month or so, it will take one full yea
 I know, the fees seems to be huge as compared to engineering classes, but 52 Weeks is not a short time though. There is a difference between writing answers from books and writing answers from what we have understood.. :D 
 <br>
 <br>
-				  <h2>Index</h2>
+				  <h1>Index</h1>
 				  <div class="table-responsive">
 					  <table class="table">
 					    <thead>
 					      <tr>
-					        <th>#</th>
-					        <th>Topic</th>
-					        <th>No Of Lectures</th>
+						      <td><b>#</b></td>
+						      <td><b>Topic</b></td>
+						      <td><b>No Of Lectures</b></td>
 					      </tr>
 					    </thead>
 					    <tbody>
@@ -638,6 +662,7 @@ I know, the fees seems to be huge as compared to engineering classes, but 52 Wee
 				
 				  <a href="https://goo.gl/RB0Z5q"><b>Feedback</b></a>
 			    </p>
+			    <!--
                             <ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
@@ -652,6 +677,7 @@ I know, the fees seems to be huge as compared to engineering classes, but 52 Wee
                                     </strong>
                                 </li>
                             </ul>
+			    -->
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
